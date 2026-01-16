@@ -11,10 +11,13 @@ The simulation has three possible outcomes: no survivors (the wolves eat all the
 
 # Instructions (command prompt):
 1. Create a virtual environment
+
 python -m venv venv
 2. Activate it
+
 venv\Scripts\activate
 3. Install dependencies
+
 pip install -r requirements.txt
 4. Run main.py
 
